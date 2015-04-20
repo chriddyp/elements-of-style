@@ -1,5 +1,6 @@
 ---
 permalink: rough-draft
+layout: base
 ---
 
 ## Mind Your Labels
