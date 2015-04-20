@@ -58,11 +58,19 @@ A date axis with an x-axis title **date** is redudant
 **Comparing Values**
 
 
-<iframe src="https://plot.ly/~theengineear/3510.embed?height=600" style="border: none; width: 100%; height: 650px"></iframe>
+<iframe src="https://plot.ly/~theengineear/3510.embed?autosize=false&height=600&width=800"
+        style="border: none; width: 100%; height: 850px;"></iframe>
 
 
-<iframe src="https://plot.ly/~chriddyp/598.embed?height=600" style="border: none; width: 100%; height: 650px"></iframe>
+<iframe src="https://plot.ly/~chriddyp/598.embed?autosize=false&height=600&width=800"
+        style="border: none; width: 100%; height: 850px;"></iframe>
 
+
+<iframe src="https://plot.ly/~chris/7365.embed?autosize=false&height=600&width=800"
+        style="border: none; width: 100%; height: 850px;"></iframe>
+
+<iframe src="https://plot.ly/~chriddyp/708.embed?autosize=false&height=600&width=800"
+        style="border: none; width: 100%; height: 850px;"></iframe>
 
 **Text**
 Don't
@@ -77,7 +85,7 @@ Do
 
 ## Math Type
 
-<iframe src="https://plot.ly/~theengineear/3518.embed" style="border: none; width: 100%; height: 600px"></iframe>
+![LaTeX Example](https://plot.ly/~theengineear/3518.png)
 
 [LaTeX Tutorial with Plotly](https://plot.ly/LaTeX-basics/)
 
@@ -85,11 +93,12 @@ Do
 
 ## Color Scales
 
-Is your data **sequential**, **diverging about a midpoint**, or **qualitative (you're searching for features)**?
+Is your data **sequential**, **diverging** (about a midpoint), or **qualitative** (you're searching for features)?
 
 Pick your colorscale!
 
-** Sequential data **
+**Sequential data**
+
 - Depth or elevation
 - Temperature
 
@@ -97,18 +106,21 @@ Pick your colorscale!
 
 ![](https://plot.ly/~chris/8522.png)
 
-** Diverging data **
-- >0, <0
+**Diverging data**
+
+Examples
 - Above sea level, below sea level
 - Above freezing, below freezing
+- Any sets of data with a clear midpoint
+
 
 ![](https://plot.ly/~chris/5496.png)
 
 ![](https://plot.ly/~chris/8523.png)
 
 
-Data's Model is Unknown and You're Feature Searching
-- Nonlinear function
+**Categorical data**
+
 
 ## Histogram
 No spaces
