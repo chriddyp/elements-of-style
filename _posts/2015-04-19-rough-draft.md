@@ -3,6 +3,10 @@ permalink: rough-draft
 layout: base
 ---
 
+## Motivation
+
+![](https://plot.ly/~chriddyp/687.png)
+
 ## Mind Your Labels
 It's **OK** not to have a title or axes labels
 
