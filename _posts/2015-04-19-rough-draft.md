@@ -26,16 +26,23 @@ Do
 
 **Comparing Values**
 
+
 <iframe src="https://plot.ly/~theengineear/3510.embed" style="border: none; width: 100%; height: 600px"></iframe>
+
 
 <iframe src="https://plot.ly/~chriddyp/598.embed" style="border: none; width: 100%; height: 600px"></iframe>
 
+
 **Text**
 Don't
+
 ![IMBD vs Runtime](https://plot.ly/~theengineear/3397/movies.png)
+
 Do
 
+
 <iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 600px"></iframe>
+
 
 ## Math Type
 
