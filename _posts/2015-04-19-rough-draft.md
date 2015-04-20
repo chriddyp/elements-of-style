@@ -3,7 +3,7 @@ permalink: rough-draft
 layout: base
 ---
 
-## Motivation
+## Why We Graph
 
 ![](https://plot.ly/~chriddyp/687.png)
 
