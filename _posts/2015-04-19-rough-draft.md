@@ -17,6 +17,16 @@ Do
 
 ![](https://plot.ly/~chriddyp/619.png)
 
+
+
+A date axis with an x-axis title **date** is redudant
+
+![](https://plot.ly/~chriddyp/674.png)
+
+
+![](https://plot.ly/~chriddyp/670.png)
+
+
 ## Dense Scatter Plots
 ![](https://plot.ly/~chriddyp/636.png)
 
@@ -44,10 +54,10 @@ Do
 **Comparing Values**
 
 
-<iframe src="https://plot.ly/~theengineear/3510.embed?height=600" style="border: none; width: 100%; height: 600px"></iframe>
+<iframe src="https://plot.ly/~theengineear/3510.embed?height=600" style="border: none; width: 100%; height: 650px"></iframe>
 
 
-<iframe src="https://plot.ly/~chriddyp/598.embed?height=600" style="border: none; width: 100%; height: 600px"></iframe>
+<iframe src="https://plot.ly/~chriddyp/598.embed?height=600" style="border: none; width: 100%; height: 650px"></iframe>
 
 
 **Text**
@@ -64,6 +74,10 @@ Do
 ## Math Type
 
 <iframe src="https://plot.ly/~theengineear/3518.embed" style="border: none; width: 100%; height: 600px"></iframe>
+
+[LaTeX Tutorial with Plotly](https://plot.ly/LaTeX-basics/)
+
+[HTML Characters with Plotly](https://plot.ly/adding-HTML-and-links-to-charts/)
 
 ## Color Scales
 Data is Monotonic and Sequential
