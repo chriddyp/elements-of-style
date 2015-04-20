@@ -17,8 +17,25 @@ Do
 
 ![](https://plot.ly/~chriddyp/619.png)
 
-## Opacity
-<iframe src="https://plot.ly/~alex/455.embed" style="border: none; width: 100%; height: 600px"></iframe>
+## Dense Scatter Plots
+![](https://plot.ly/~chriddyp/636.png)
+
+![](https://plot.ly/~chriddyp/633.png)
+
+![](https://plot.ly/~chriddyp/631.png)
+
+![](https://plot.ly/~chriddyp/629.png)
+
+
+### Use of Opacity
+
+![](https://plot.ly/~chriddyp/651.png)
+
+![](https://plot.ly/~chriddyp/649.png)
+
+![](https://plot.ly/~chriddyp/653.png)
+
+![](https://plot.ly/~alex/455.png)
 
 ## Cases for Interactivity
 
@@ -27,10 +44,10 @@ Do
 **Comparing Values**
 
 
-<iframe src="https://plot.ly/~theengineear/3510.embed" style="border: none; width: 100%; height: 600px"></iframe>
+<iframe src="https://plot.ly/~theengineear/3510.embed?height=600" style="border: none; width: 100%; height: 600px"></iframe>
 
 
-<iframe src="https://plot.ly/~chriddyp/598.embed" style="border: none; width: 100%; height: 600px"></iframe>
+<iframe src="https://plot.ly/~chriddyp/598.embed?height=600" style="border: none; width: 100%; height: 600px"></iframe>
 
 
 **Text**
