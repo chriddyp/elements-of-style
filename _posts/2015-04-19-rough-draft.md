@@ -84,11 +84,24 @@ Do
 [HTML Characters with Plotly](https://plot.ly/adding-HTML-and-links-to-charts/)
 
 ## Color Scales
+
+![](https://plot.ly/~chris/8522.png)
+
 Data is Monotonic and Sequential
 
-Data is Monotonic and Diverging
+Examples
+- Depth or elevation
+- Temperature
+
+![](https://plot.ly/~chriddyp/664.png)
+
+Data is Monotonic and Diverging Around a Midpoint
+- Above sea level, below sea level
+- Above freezing, below freezing
+
 
 Data's Model is Unknown and You're Feature Searching
+- Nonlinear function
 
 ## Histogram
 No spaces
