@@ -1,1 +1,19 @@
-hello world
+# Elements of style
+
+## Mind Your Labels
+Don't
+
+
+Do
+
+
+## The Case for Interactivity
+
+
+## Color Scales
+Data is Monotonic and Sequential
+
+Data is Monotonic and Diverging
+
+Data's Model is Unknown and You're Feature Searching
+
