@@ -24,7 +24,7 @@
 
             <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png" />
 
-            "Current" is repeated 3 times
+            <i>"Current" is repeated 3 times</i>
         </div>
     </div>
 
@@ -38,14 +38,14 @@
     </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-top: 100px">
     <div class="six columns">
         <div style="padding-right: 5px;">
             Don't
 
             <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png" />
 
-            A date axis with an x-axis title **date** is redudant
+            <i>A date axis with an x-axis title <b>date</b> is redudant</i>
         </div>
     </div>
 
@@ -91,11 +91,17 @@
 
 <iframe src="https://plot.ly/~chriddyp/629.embed" style="width: 100%; height: 700px; border:none;"></iframe>
 
-<h3 id="use-of-opacity">Use of Opacity</h3>
+<h3 id="use-opacity-when-your-data-is-dense">Use opacity when your data is dense</h3>
+
+<p><b>Without opacity</b></p>
 
 <p><img src="https://plot.ly/~chriddyp/651.png" alt="" /></p>
 
+<p><b>Opaque markers</b></p>
+
 <p><img src="https://plot.ly/~chriddyp/649.png" alt="" /></p>
+
+<p><b>Opaque markers with thin marker borders</b></p>
 
 <p><img src="https://plot.ly/~chriddyp/653.png" alt="" /></p>
 
@@ -115,14 +121,23 @@
 
 <iframe src="https://plot.ly/~chriddyp/708.embed?autosize=false&amp;height=600&amp;width=800" style="border: none; width: 100%; height: 850px;"></iframe>
 
-<p><strong>Text</strong>
-Don’t</p>
+<p><strong>Text</strong></p>
 
-<p><img src="https://plot.ly/~theengineear/3397/movies.png" alt="IMBD vs Runtime" /></p>
+<div class="row" style="height: ">
+    <div class="six columns">
+        <div>
+            Don't
+            <img style="width: 100%" src="https://plot.ly/~theengineear/3397/movies.png" />
+        </div>
+    </div>
 
-<p>Do</p>
-
-<iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 600px"></iframe>
+    <div class="six columns">
+        <div>
+            Do
+            <iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 100%"></iframe>
+        </div>
+    </div>
+</div>
 
 <h2 id="math-type">Math Type</h2>
 
@@ -134,7 +149,7 @@ Don’t</p>
 
 <h2 id="color-scales">Color Scales</h2>
 
-<p>Is your data <strong>sequential</strong>, <strong>diverging</strong> (about a midpoint), or <strong>qualitative</strong> (you’re searching for features)?</p>
+<p>Is your data <strong>sequential</strong> (you’re interested in how much larger or smaller one value is from the other), <strong>diverging</strong> (about a midpoint), or <strong>qualitative</strong> (you’re searching for features)?</p>
 
 <p>Pick your colorscale!</p>
 
@@ -147,7 +162,7 @@ Don’t</p>
 
 <p><img src="https://plot.ly/~chriddyp/664.png" alt="" /></p>
 
-<p><img src="https://plot.ly/~chris/8522.png" alt="" /></p>
+<p><img src="https://plot.ly/~chris/8522.png" style="width: 100%" /></p>
 
 <p><strong>Diverging data</strong></p>
 
@@ -158,14 +173,36 @@ Don’t</p>
 
 <p><img src="https://plot.ly/~chris/5496.png" alt="" /></p>
 
-<p><img src="https://plot.ly/~chris/8523.png" alt="" /></p>
+<p><img src="https://plot.ly/~chris/8523.png" style="width: 100%" /></p>
 
-<p><strong>Categorical data</strong></p>
+<p><strong>Qualitative data</strong></p>
+
+<ul>
+  <li>You’re unsure of your data’s model</li>
+  <li>You’re more interested in certain features in your dataset, like peaks or valleys that might be obscured in a sequential scale</li>
+</ul>
+
+<p><img src="https://plot.ly/~cfif/66.png" alt="" /></p>
+
+<p><img src="https://plot.ly/~chris/8524.png" style="width: 100%" /></p>
 
 <h2 id="histogram">Histogram</h2>
-<p>No spaces
-<img src="https://plot.ly/~cparmer2/632.png" alt="this is a bar chart" />
-<img src="https://plot.ly/~cparmer2/631.png" alt="this is a histogram" /></p>
+
+<div class="row" style="height: ">
+    <div class="six columns">
+        <div>
+            Bar chart
+            <img style="width: 100%" src="https://plot.ly/~cparmer2/632.png" />
+        </div>
+    </div>
+
+    <div class="six columns">
+        <div>
+            Histogram
+            <img style="width: 100%" src="https://plot.ly/~cparmer2/631.png" />
+        </div>
+    </div>
+</div>
 
     </div>
 </body>

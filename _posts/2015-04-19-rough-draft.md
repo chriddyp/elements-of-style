@@ -19,7 +19,7 @@ It's **OK** not to have a title or axes labels
 
             <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png">
 
-            "Current" is repeated 3 times
+            <i>"Current" is repeated 3 times</i>
         </div>
     </div>
 
@@ -34,14 +34,14 @@ It's **OK** not to have a title or axes labels
 </div>
 
 
-<div class="row">
+<div class="row" style="padding-top: 100px">
     <div class="six columns">
         <div style="padding-right: 5px;">
             Don't
 
             <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png">
 
-            A date axis with an x-axis title **date** is redudant
+            <i>A date axis with an x-axis title <b>date</b> is redudant</i>
         </div>
     </div>
 
@@ -90,11 +90,17 @@ It's **OK** not to have a title or axes labels
 <iframe src="https://plot.ly/~chriddyp/629.embed" style="width: 100%; height: 700px; border:none;"></iframe>
 
 
-### Use of Opacity
+### Use opacity when your data is dense
+
+<b>Without opacity</b>
 
 ![](https://plot.ly/~chriddyp/651.png)
 
+<b>Opaque markers</b>
+
 ![](https://plot.ly/~chriddyp/649.png)
+
+<b>Opaque markers with thin marker borders</b>
 
 ![](https://plot.ly/~chriddyp/653.png)
 
@@ -122,14 +128,23 @@ It's **OK** not to have a title or axes labels
         style="border: none; width: 100%; height: 850px;"></iframe>
 
 **Text**
-Don't
-
-![IMBD vs Runtime](https://plot.ly/~theengineear/3397/movies.png)
-
-Do
 
 
-<iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 600px"></iframe>
+<div class="row" style="height: ">
+    <div class="six columns">
+        <div>
+            Don't
+            <img style="width: 100%" src="https://plot.ly/~theengineear/3397/movies.png">
+        </div>
+    </div>
+
+    <div class="six columns">
+        <div>
+            Do
+            <iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 100%"></iframe>
+        </div>
+    </div>
+</div>
 
 
 ## Math Type
@@ -142,7 +157,7 @@ Do
 
 ## Color Scales
 
-Is your data **sequential**, **diverging** (about a midpoint), or **qualitative** (you're searching for features)?
+Is your data **sequential** (you're interested in how much larger or smaller one value is from the other), **diverging** (about a midpoint), or **qualitative** (you're searching for features)?
 
 Pick your colorscale!
 
@@ -153,7 +168,9 @@ Pick your colorscale!
 
 ![](https://plot.ly/~chriddyp/664.png)
 
-![](https://plot.ly/~chris/8522.png)
+
+<img src="https://plot.ly/~chris/8522.png" style="width: 100%">
+
 
 **Diverging data**
 
@@ -165,13 +182,35 @@ Examples
 
 ![](https://plot.ly/~chris/5496.png)
 
-![](https://plot.ly/~chris/8523.png)
+
+<img src="https://plot.ly/~chris/8523.png" style="width: 100%">
 
 
-**Categorical data**
+**Qualitative data**
+
+- You're unsure of your data's model
+- You're more interested in certain features in your dataset, like peaks or valleys that might be obscured in a sequential scale
+
+![](https://plot.ly/~cfif/66.png)
+
+
+<img src="https://plot.ly/~chris/8524.png" style="width: 100%">
 
 
 ## Histogram
-No spaces
-![this is a bar chart](https://plot.ly/~cparmer2/632.png)
-![this is a histogram](https://plot.ly/~cparmer2/631.png)
+
+<div class="row" style="height: ">
+    <div class="six columns">
+        <div>
+            Bar chart
+            <img style="width: 100%" src="https://plot.ly/~cparmer2/632.png">
+        </div>
+    </div>
+
+    <div class="six columns">
+        <div>
+            Histogram
+            <img style="width: 100%" src="https://plot.ly/~cparmer2/631.png">
+        </div>
+    </div>
+</div>
