@@ -10,35 +10,84 @@ layout: base
 ## Mind Your Labels
 It's **OK** not to have a title or axes labels
 
-Don't
-
-![](https://plot.ly/~chriddyp/614.png)
-
-"Current" is repeated 3 times
-
-Do
 
 
-![](https://plot.ly/~chriddyp/619.png)
+<div class="row">
+    <div class="six columns">
+        <div style="padding-right: 5px;">
+            Don't
+
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png">
+
+            "Current" is repeated 3 times
+        </div>
+    </div>
 
 
+    <div class="six columns">
+        <div style="padding-left: 5px;">
+            Do
 
-A date axis with an x-axis title **date** is redudant
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
+        </div>
+    </div>
+</div>
 
-![](https://plot.ly/~chriddyp/674.png)
+
+<div class="row">
+    <div class="six columns">
+        <div style="padding-right: 5px;">
+            Don't
+
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png">
+
+            A date axis with an x-axis title **date** is redudant
+        </div>
+    </div>
 
 
-![](https://plot.ly/~chriddyp/670.png)
+    <div class="six columns">
+        <div style="padding-left: 5px;">
+            Do
+
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/670.png">
+        </div>
+    </div>
+</div>
 
 
 ## Dense Scatter Plots
-![](https://plot.ly/~chriddyp/636.png)
 
-![](https://plot.ly/~chriddyp/633.png)
+<div class="row">
+    <div class="six columns">
+        <div>
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/636.png">
+        </div>
+    </div>
 
-![](https://plot.ly/~chriddyp/631.png)
+    <div class="six columns">
+        <div>
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/633.png">
+        </div>
+    </div>
+</div>
 
-![](https://plot.ly/~chriddyp/629.png)
+<div class="row">
+    <div class="six columns">
+        <div>
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/631.png">
+        </div>
+    </div>
+
+    <div class="six columns">
+        <div>
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/629.png">
+        </div>
+    </div>
+</div>
+
+
+<iframe src="https://plot.ly/~chriddyp/629.embed" style="width: 100%; height: 700px; border:none;"></iframe>
 
 
 ### Use of Opacity
