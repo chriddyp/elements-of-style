@@ -85,19 +85,26 @@ Do
 
 ## Color Scales
 
-![](https://plot.ly/~chris/8522.png)
+Is your data **sequential**, **diverging about a midpoint**, or **qualitative (you're searching for features)**?
 
-Data is Monotonic and Sequential
+Pick your colorscale!
 
-Examples
+** Sequential data **
 - Depth or elevation
 - Temperature
 
 ![](https://plot.ly/~chriddyp/664.png)
 
-Data is Monotonic and Diverging Around a Midpoint
+![](https://plot.ly/~chris/8522.png)
+
+** Diverging data **
+- >0, <0
 - Above sea level, below sea level
 - Above freezing, below freezing
+
+![](https://plot.ly/~chris/5496.png)
+
+![](https://plot.ly/~chris/8523.png)
 
 
 Data's Model is Unknown and You're Feature Searching
