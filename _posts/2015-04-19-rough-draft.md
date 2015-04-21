@@ -5,7 +5,11 @@ layout: base
 
 ## Why We Graph
 
-![](https://plot.ly/~chriddyp/687.png)
+
+<a href="https://plot.ly/~chriddyp/687">
+    <img style="width: 100%" src="https://plot.ly/~chriddyp/687.png">
+</a>
+
 
 ## Mind Your Labels
 It's **OK** not to have a title or axes labels
@@ -169,7 +173,9 @@ Pick your colorscale!
 ![](https://plot.ly/~chriddyp/664.png)
 
 
-<img src="https://plot.ly/~chris/8522.png" style="width: 100%">
+<a href="https://plot.ly/~chris/8523.png">
+    <img src="https://plot.ly/~chris/8523.png" style="width: 100%">
+</a>
 
 
 **Diverging data**
@@ -183,7 +189,9 @@ Examples
 ![](https://plot.ly/~chris/5496.png)
 
 
-<img src="https://plot.ly/~chris/8523.png" style="width: 100%">
+<a href="https://plot.ly/~chris/8523.png">
+    <img src="https://plot.ly/~chris/8523.png" style="width: 100%">
+</a>
 
 
 **Qualitative data**
@@ -194,7 +202,9 @@ Examples
 ![](https://plot.ly/~cfif/66.png)
 
 
-<img src="https://plot.ly/~chris/8524.png" style="width: 100%">
+<a href="https://plot.ly/~chris/8524.png">
+    <img src="https://plot.ly/~chris/8524.png" style="width: 100%">
+</a>
 
 
 ## Histogram
@@ -202,14 +212,12 @@ Examples
 <div class="row" style="height: ">
     <div class="six columns">
         <div>
-            Bar chart
             <img style="width: 100%" src="https://plot.ly/~cparmer2/632.png">
         </div>
     </div>
 
     <div class="six columns">
         <div>
-            Histogram
             <img style="width: 100%" src="https://plot.ly/~cparmer2/631.png">
         </div>
     </div>
