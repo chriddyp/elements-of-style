@@ -15,78 +15,58 @@ layout: base
 It's **OK** not to have a title or axes labels
 
 
-<div class="row">
-    <div class="six columns">
-        <div style="padding-right: 5px;">
-            Don't
-            <a href="https://plot.ly/~chriddyp/614">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png">
-            </a>
+Don't
+<a href="https://plot.ly/~chriddyp/614">
+    <img src="https://plot.ly/~chriddyp/614.png">
+</a>
 
-            <i>"Current" is repeated 3 times</i>
-        </div>
-    </div>
+<i>"Current" is repeated 3 times</i>
 
 
-    <div class="six columns">
-        <div style="padding-left: 5px;">
-            Do
-            <a href="https://plot.ly/~chriddyp/619">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
-            </a>
-        </div>
-    </div>
-</div>
 
-<div class="row" style="padding-top: 100px">
-    <div class="six columns">
-        <div style="padding-right: 5px;">
-            Don't
-            <a href="https://plot.ly/~chriddyp/674">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png">
-            </a>
-            <i>A date axis with an x-axis title <b>date</b> is redudant</i>
-        </div>
-    </div>
+Do
+<a href="https://plot.ly/~chriddyp/619">
+    <img src="https://plot.ly/~chriddyp/619.png">
+</a>
 
 
-    <div class="six columns">
-        <div style="padding-left: 5px;">
-            Do
-            <a href="https://plot.ly/~chriddyp/670">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/670.png">
-            </a>
-        </div>
-    </div>
-</div>
+Don't
+
+<a href="https://plot.ly/~chriddyp/674">
+    <img src="https://plot.ly/~chriddyp/674.png">
+</a>
+<i>A date axis with an x-axis title <b>date</b> is redudant</i>
+
+Do
+
+<a href="https://plot.ly/~chriddyp/670">
+    <img src="https://plot.ly/~chriddyp/670.png">
+</a>
 
 
 ## Lighten it up
 Remove unncessary gridlines, ticks, borders.
 
-<div class="row">
-    <div class="six columns">
-        <div style="padding-right: 5px;">
-            Don't
-            <a href="https://plot.ly/~chriddyp/614">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/755.png">
-            </a>
-        </div>
-    </div>
+
+Don't
 
 
-    <div class="six columns">
-        <div style="padding-left: 5px;">
-            Do
-            <a href="https://plot.ly/~chriddyp/619">
-                <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
-            </a>
-        </div>
-    </div>
-</div>
+<a href="https://plot.ly/~chriddyp/614">
+    <img src="https://plot.ly/~chriddyp/755.png">
+</a>
+
+Do
+
+
+<a href="https://plot.ly/~chriddyp/619">
+    <img src="https://plot.ly/~chriddyp/619.png">
+</a>
 
 
 ## Dense Scatter Plots
+
+<iframe src="https://plot.ly/~chriddyp/636.embed" style="width: 100%; height: 550px; border: none;"></iframe>
+
 
 <div class="row">
     <div class="six columns">
@@ -167,27 +147,35 @@ Remove unncessary gridlines, ticks, borders.
 
 **Text**
 
+Don't
+
+<img style="width: 100%" src="https://plot.ly/~theengineear/3397/movies.png">
+
+Do
+
+<iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 500px;"></iframe>
+
+
+## Math Type
+
 
 <div class="row" style="height: ">
     <div class="six columns">
         <div>
             Don't
-            <img style="width: 100%" src="https://plot.ly/~theengineear/3397/movies.png">
+            <img style="width: 100%" src="https://plot.ly/~chriddyp/764.png">
         </div>
     </div>
 
     <div class="six columns">
         <div>
             Do
-            <iframe src="https://plot.ly/~theengineear/3398.embed" style="border: none; width: 100%; height: 100%"></iframe>
+            <img style="width: 100%"  src="https://plot.ly/~chriddyp/764.png">
         </div>
     </div>
 </div>
 
 
-## Math Type
-
-![LaTeX Example](https://plot.ly/~theengineear/3518.png)
 
 [LaTeX Tutorial with Plotly](https://plot.ly/LaTeX-basics/)
 
@@ -240,19 +228,7 @@ Examples
     <img src="https://plot.ly/~chris/8524.png" style="width: 100%">
 </a>
 
+**Exploring Contour Plots and Heatmaps**
 
-## Histogram
+[![](http://i.imgur.com/11rI5jt.png)](http://chriddyp.github.io/interactive-heatmaps/)
 
-<div class="row" style="height: ">
-    <div class="six columns">
-        <div>
-            <img style="width: 100%" src="https://plot.ly/~cparmer2/632.png">
-        </div>
-    </div>
-
-    <div class="six columns">
-        <div>
-            <img style="width: 100%" src="https://plot.ly/~cparmer2/631.png">
-        </div>
-    </div>
-</div>
