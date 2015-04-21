@@ -131,14 +131,6 @@ Do
 **Comparing Values**
 
 
-<iframe src="https://plot.ly/~theengineear/3510.embed?autosize=false&height=600&width=800"
-        style="border: none; width: 100%; height: 850px;"></iframe>
-
-
-<iframe src="https://plot.ly/~chriddyp/598.embed?autosize=false&height=600&width=800"
-        style="border: none; width: 100%; height: 850px;"></iframe>
-
-
 <iframe src="https://plot.ly/~chris/7365.embed?autosize=false&height=600&width=800"
         style="border: none; width: 100%; height: 850px;"></iframe>
 
