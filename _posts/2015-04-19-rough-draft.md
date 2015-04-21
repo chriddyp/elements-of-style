@@ -15,13 +15,13 @@ layout: base
 It's **OK** not to have a title or axes labels
 
 
-
 <div class="row">
     <div class="six columns">
         <div style="padding-right: 5px;">
             Don't
-
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png">
+            <a href="https://plot.ly/~chriddyp/614">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/614.png">
+            </a>
 
             <i>"Current" is repeated 3 times</i>
         </div>
@@ -31,20 +31,20 @@ It's **OK** not to have a title or axes labels
     <div class="six columns">
         <div style="padding-left: 5px;">
             Do
-
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
+            <a href="https://plot.ly/~chriddyp/619">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
+            </a>
         </div>
     </div>
 </div>
-
 
 <div class="row" style="padding-top: 100px">
     <div class="six columns">
         <div style="padding-right: 5px;">
             Don't
-
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png">
-
+            <a href="https://plot.ly/~chriddyp/674">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/674.png">
+            </a>
             <i>A date axis with an x-axis title <b>date</b> is redudant</i>
         </div>
     </div>
@@ -53,8 +53,34 @@ It's **OK** not to have a title or axes labels
     <div class="six columns">
         <div style="padding-left: 5px;">
             Do
+            <a href="https://plot.ly/~chriddyp/670">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/670.png">
+            </a>
+        </div>
+    </div>
+</div>
 
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/670.png">
+
+## Lighten it up
+Remove unncessary gridlines, ticks, borders.
+
+<div class="row">
+    <div class="six columns">
+        <div style="padding-right: 5px;">
+            Don't
+            <a href="https://plot.ly/~chriddyp/614">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/755.png">
+            </a>
+        </div>
+    </div>
+
+
+    <div class="six columns">
+        <div style="padding-left: 5px;">
+            Do
+            <a href="https://plot.ly/~chriddyp/619">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/619.png">
+            </a>
         </div>
     </div>
 </div>
@@ -65,13 +91,17 @@ It's **OK** not to have a title or axes labels
 <div class="row">
     <div class="six columns">
         <div>
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/636.png">
+            <a href="https://plot.ly/~chriddyp/636">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/636.png">
+            </a>
         </div>
     </div>
 
     <div class="six columns">
         <div>
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/633.png">
+            <a href="https://plot.ly/~chriddyp/633">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/633.png">
+            </a>
         </div>
     </div>
 </div>
@@ -79,13 +109,17 @@ It's **OK** not to have a title or axes labels
 <div class="row">
     <div class="six columns">
         <div>
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/631.png">
+            <a href="https://plot.ly/~chriddyp/631">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/631.png">
+            </a>
         </div>
     </div>
 
     <div class="six columns">
         <div>
-            <img style="width: 100%" src="https://plot.ly/~chriddyp/629.png">
+            <a href="https://plot.ly/~chriddyp/629">
+                <img style="width: 100%" src="https://plot.ly/~chriddyp/629.png">
+            </a>
         </div>
     </div>
 </div>
